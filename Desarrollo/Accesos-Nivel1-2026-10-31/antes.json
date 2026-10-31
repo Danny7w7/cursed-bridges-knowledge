@@ -1,0 +1,827 @@
+{
+  "fecha": "2026-10-31",
+  "plan": {
+    "A": {
+      "muelles": [],
+      "rocas": [
+        "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_15_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_18_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_17_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_35_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_29_Node"
+      ]
+    },
+    "D": {
+      "muelles": [
+        1
+      ],
+      "rocas": [
+        "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.06_Aguja_obsidiana_40_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.06_Aguja_obsidiana_03_Node"
+      ]
+    },
+    "C": {
+      "muelles": [
+        2,
+        1
+      ],
+      "rocas": [
+        "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_06_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_08_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_07_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_04_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_03_Node"
+      ]
+    },
+    "B": {
+      "muelles": [
+        3,
+        4
+      ],
+      "rocas": [
+        "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_24_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_25_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_26_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_28_Node",
+        "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_29_Node"
+      ]
+    }
+  },
+  "proteccion": {
+    "Workspace.Niveles.Nivel1.Bridges.Bridge_AB": "299403017:1454279547",
+    "Workspace.Niveles.Nivel1.Islands.Island_B.Suelo": "239323521:243846815",
+    "Workspace.Niveles.Nivel1.Islands.Island_C.Suelo": "1901673929:611657141",
+    "Workspace.Niveles.Nivel1.Bridges.Bridge_BC": "2002088177:1192173813",
+    "Workspace.Niveles.Nivel1.Islands.Island_D.AccesosPuentes": "933986322:286454425",
+    "Workspace.Niveles.Nivel1.Islands.Island_C.AccesosPuentes": "490596904:75259399",
+    "Workspace.Niveles.Nivel1.Bridges.Bridge_AD": "553377739:939348835",
+    "Workspace.Niveles.Nivel2_Escenario": "919159898:1179308445",
+    "Workspace.Niveles.Nivel1.Islands.Island_A.AccesosPuentes": "1857058093:312817044",
+    "Workspace.Niveles.Nivel1.Islands.Island_B.AccesosPuentes": "599641121:1688902505",
+    "Workspace.Niveles.Nivel1.Islands.Island_D.Suelo": "545623744:1572522580",
+    "Workspace.Niveles.Nivel1.Islands.Island_A.Suelo": "400902007:705843549",
+    "Workspace.Niveles.Nivel1.Bridges.Bridge_CA": "1976576739:1369988741"
+  },
+  "objetivos": [
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_15_Node",
+      "grupo": "world",
+      "isla": "A"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_17_Node",
+      "grupo": "world",
+      "isla": "A"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_18_Node",
+      "grupo": "world",
+      "isla": "A"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_29_Node",
+      "grupo": "world",
+      "isla": "A"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_35_Node",
+      "grupo": "world",
+      "isla": "A"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_Cadena",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_Fuego_1",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_3_Fuego_2",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_Cadena",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_Fuego_1",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.Embellecido.Muelle_4_Fuego_2",
+      "grupo": "Embellecido",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_base_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_base_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_corona_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_corona_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_obelisco_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_3_obelisco_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_base_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_base_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_corona_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_corona_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_obelisco_-1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.05_Muelle_4_obelisco_1_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_24_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_25_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_26_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_28_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.06_Aguja_obsidiana_29_Node",
+      "grupo": "world",
+      "isla": "B"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_Cadena",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_Fuego_1",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_1_Fuego_2",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_Cadena",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_Fuego_1",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.Embellecido.Muelle_2_Fuego_2",
+      "grupo": "Embellecido",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_base_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_base_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_corona_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_corona_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_obelisco_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_1_obelisco_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_base_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_base_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_corona_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_corona_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_obelisco_-1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.05_Muelle_2_obelisco_1_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_03_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_04_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_06_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_07_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.06_Aguja_obsidiana_08_Node",
+      "grupo": "world",
+      "isla": "C"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_1_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_1_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_2_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_3_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_4_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_5_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_6_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_7_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_2_collar_pua_8_Node",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_Cadena",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_Fuego_1",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.Embellecido.Muelle_1_Fuego_2",
+      "grupo": "Embellecido",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_base_-1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_base_1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_corona_-1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_corona_1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_obelisco_-1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.05_Muelle_1_obelisco_1_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.06_Aguja_obsidiana_03_Node",
+      "grupo": "world",
+      "isla": "D"
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.06_Aguja_obsidiana_40_Node",
+      "grupo": "world",
+      "isla": "D"
+    }
+  ]
+}

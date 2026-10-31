@@ -1,0 +1,646 @@
+{
+  "antes": {
+    "extremos": [
+      {
+        "puente": "Bridge_CA",
+        "ext": "From",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              36.773624420166016,
+              11.90650463104248,
+              -22.114713668823242
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              60.69101333618164,
+              11.90650463104248,
+              -8.448518753051758
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_CA",
+        "ext": "To",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              33.225914001464844,
+              11.895509719848633,
+              39.61524963378906
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              9.30921745300293,
+              11.895509719848633,
+              25.947847366333008
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_BC",
+        "ext": "From",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              -27.1524658203125,
+              11.921063423156738,
+              -38.99799728393555
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              -27.15353012084961,
+              11.921063423156738,
+              -66.00192260742188
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.004364013671875
+      },
+      {
+        "puente": "Bridge_BC",
+        "ext": "To",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              27.153244018554688,
+              11.910284996032715,
+              -66.00208282470703
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              27.15277099609375,
+              11.910284996032715,
+              -38.99815368652344
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.004364013671875
+      },
+      {
+        "puente": "Bridge_AB",
+        "ext": "From",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              -9.309337615966797,
+              11.90650463104248,
+              25.94778060913086
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              -33.22591781616211,
+              11.90650463104248,
+              39.61539077758789
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_AB",
+        "ext": "To",
+        "huecos": 2,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              -60.6910400390625,
+              11.895509719848633,
+              -8.448419570922852
+            ],
+            "avance": -1
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              -36.773719787597656,
+              11.895509719848633,
+              -22.114727020263672
+            ],
+            "avance": -1
+          }
+        ],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_AD",
+        "ext": "From",
+        "huecos": 4,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              18.408212661743164,
+              11.833196640014648,
+              111.02403259277344
+            ],
+            "avance": -2
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              41.02313995361328,
+              11.833196640014648,
+              88.40754699707031
+            ],
+            "avance": -2
+          },
+          {
+            "lateral": -0.9,
+            "pos": [
+              18.761777877807617,
+              11.833196640014648,
+              111.37757110595703
+            ],
+            "avance": -1.5
+          }
+        ],
+        "ancho": 35.53715515136719
+      },
+      {
+        "puente": "Bridge_AD",
+        "ext": "To",
+        "huecos": 4,
+        "muestras": 559,
+        "ejemplos": [
+          {
+            "lateral": -0.9,
+            "pos": [
+              87.65840911865234,
+              11.820428848266602,
+              135.04275512695312
+            ],
+            "avance": -2
+          },
+          {
+            "lateral": 0.9000000000000001,
+            "pos": [
+              65.04210662841797,
+              11.820428848266602,
+              157.65786743164062
+            ],
+            "avance": -2
+          },
+          {
+            "lateral": -0.9,
+            "pos": [
+              87.30486297607422,
+              11.820428848266602,
+              134.68919372558594
+            ],
+            "avance": -1.5
+          }
+        ],
+        "ancho": 35.53715515136719
+      }
+    ],
+    "islas": [
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_C",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          70,
+          9,
+          -52.5
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_A",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          0,
+          9,
+          70
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_B",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          -70,
+          9,
+          -52.5
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_D",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          106.06602478027344,
+          9,
+          176.06602478027344
+        ]
+      }
+    ]
+  },
+  "despues": {
+    "extremos": [
+      {
+        "puente": "Bridge_CA",
+        "ext": "From",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_CA",
+        "ext": "To",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_BC",
+        "ext": "From",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.004364013671875
+      },
+      {
+        "puente": "Bridge_BC",
+        "ext": "To",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.004364013671875
+      },
+      {
+        "puente": "Bridge_AB",
+        "ext": "From",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_AB",
+        "ext": "To",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 30.60715675354004
+      },
+      {
+        "puente": "Bridge_AD",
+        "ext": "From",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 35.53715515136719
+      },
+      {
+        "puente": "Bridge_AD",
+        "ext": "To",
+        "huecos": 0,
+        "muestras": 2465,
+        "ejemplos": [],
+        "ancho": 35.53715515136719
+      }
+    ],
+    "islas": [
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_C",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          70,
+          9,
+          -52.5
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_A",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          0,
+          9,
+          70
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_B",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          -70,
+          9,
+          -52.5
+        ]
+      },
+      {
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "nombre": "Island_D",
+        "collide": true,
+        "size": [
+          6,
+          89.63999938964844,
+          89.63999938964844
+        ],
+        "pos": [
+          106.06602478027344,
+          9,
+          176.06602478027344
+        ]
+      }
+    ]
+  },
+  "fisica": [
+    {
+      "union": "Union_AB_From",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.090866088867188
+    },
+    {
+      "union": "Union_AB_From",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.122222900390625
+    },
+    {
+      "union": "Union_AB_From",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_AB_To",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.12255859375
+    },
+    {
+      "union": "Union_AB_To",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.137481689453125
+    },
+    {
+      "union": "Union_AB_To",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_AD_From",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.196853637695312
+    },
+    {
+      "union": "Union_AD_From",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.138839721679688
+    },
+    {
+      "union": "Union_AD_From",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.231048583984375
+    },
+    {
+      "union": "Union_AD_To",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.242919921875
+    },
+    {
+      "union": "Union_AD_To",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.144317626953125
+    },
+    {
+      "union": "Union_AD_To",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.213302612304688
+    },
+    {
+      "union": "Union_BC_From",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_BC_From",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.126266479492188
+    },
+    {
+      "union": "Union_BC_From",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_BC_To",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_BC_To",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.127761840820312
+    },
+    {
+      "union": "Union_BC_To",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_CA_From",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_CA_From",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.111984252929688
+    },
+    {
+      "union": "Union_CA_From",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122589111328125
+    },
+    {
+      "union": "Union_CA_To",
+      "caida": false,
+      "carril": -0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    },
+    {
+      "union": "Union_CA_To",
+      "caida": false,
+      "carril": 0,
+      "atasco": false,
+      "minY": 15.119430541992188
+    },
+    {
+      "union": "Union_CA_To",
+      "caida": false,
+      "carril": 0.82,
+      "atasco": false,
+      "minY": 15.122604370117188
+    }
+  ],
+  "recorrido": {
+    "vertices": "A → B → C → A → D",
+    "mensaje": "¡Nivel 1 completado! Llegaste a D después de visitar las islas obligatorias sin incumplir el recorrido.\nUn sendero no contiene aristas repetidas. Sí puede repetir vértices.\n\nRecorrido: A → B → C → A → D.",
+    "fase": "victoria",
+    "segundos": 28.99504804611206,
+    "aristas": "AB, BC, CA, AD",
+    "posicion": "75.06953430175781, 15.819584846496582, 145.0695037841797"
+  },
+  "matematicas": 18,
+  "integracion": 138,
+  "crucesLaterales": 24,
+  "creacionIdempotente": true
+}

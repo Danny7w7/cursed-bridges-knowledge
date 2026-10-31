@@ -1,0 +1,65 @@
+{
+  "muelles": 10,
+  "objetivosFirma": {
+    "huella": "1170535168:182088679",
+    "piezas": 740
+  },
+  "proteccion": {
+    "huella": "1643781405:201734747",
+    "piezas": 7123
+  },
+  "BaseParts": 740,
+  "registro": [
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4",
+      "isla": "Island_C",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2",
+      "isla": "Island_E",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3",
+      "isla": "Island_E",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3",
+      "isla": "Island_F",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1",
+      "isla": "Island_F",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3",
+      "isla": "Island_A",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4",
+      "isla": "Island_A",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1",
+      "isla": "Island_H",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3",
+      "isla": "Island_H",
+      "piezas": 74
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3",
+      "isla": "Island_D",
+      "piezas": 74
+    }
+  ],
+  "fuegos": 20
+}

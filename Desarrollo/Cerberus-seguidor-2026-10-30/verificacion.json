@@ -1,0 +1,44 @@
+{
+  "matematicas": 18,
+  "integracion": 138,
+  "seguimiento": 23,
+  "playNormal": {
+    "cerberus": "AB, BC",
+    "jugador": "AB, BC, CA, AD",
+    "fase": "victoria"
+  },
+  "playInverso": {
+    "segundos": 29.874804973602295,
+    "fase": "victoria",
+    "aristasCerberus": "CA, BC",
+    "aristas": "CA, BC, AB, AD",
+    "vertices": "A → C → B → A → D",
+    "mensaje": "¡Nivel 1 completado! Llegaste a D después de visitar las islas obligatorias sin incumplir el recorrido.\nUn sendero no contiene aristas repetidas. Sí puede repetir vértices.\n\nRecorrido: A → C → B → A → D.",
+    "saltosCerberus": [
+      {
+        "isla": "A"
+      },
+      {
+        "isla": "C",
+        "ruta": "CA"
+      },
+      {
+        "isla": "B",
+        "ruta": "BC"
+      }
+    ],
+    "rutasCerberus": [
+      "CA",
+      "BC",
+      "AB"
+    ],
+    "posicion": "75.28620147705078, 15.8153076171875, 145.28616333007812"
+  },
+  "captura": {
+    "segundos": 17.946277900016867,
+    "mensaje": "Cerberus te alcanzó. Reintenta y elige tus movimientos con anticipación.\n\nRecorrido: A.",
+    "fase": "derrota",
+    "aristasCerberus": ""
+  },
+  "consola": "Sin errores nuevos de la mecánica. Avisos previos de Kohl's Admin."
+}

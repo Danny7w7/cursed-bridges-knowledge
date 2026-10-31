@@ -1,0 +1,35 @@
+{
+  "fechaCierre": "2026-10-31",
+  "placeId": 74011338627746,
+  "eliminados": [
+    "StarterPlayer.StarterPlayerScripts.Embestida",
+    "ServerScriptService.PeligrosPuentes",
+    "ReplicatedStorage.RemoteEvents.Embestida",
+    "ReplicatedStorage.RemoteEvents.GolpeJugador"
+  ],
+  "textoRetirado": "Instrucción de Shift, rejillas de fuego y rocas en InterfazIntento",
+  "pruebas": {
+    "reglas": 18,
+    "integracion": 138,
+    "cerberus": 23,
+    "textos": 22,
+    "total": 201
+  },
+  "cliente": {
+    "scriptDash": false,
+    "HUDEmbestida": false,
+    "GolpeFX": false,
+    "indicacionesObsoletas": [],
+    "velocidadNormal": 16
+  },
+  "play": {
+    "vertices": "A → B → C → A → D",
+    "mensaje": "¡Nivel 1 completado!\n\nConstruiste un sendero: no repetiste ninguna arista. Volviste a A; repetir vértices está permitido en un sendero.\n\nOBJETIVO CUMPLIDO\nVisitaste B y C y terminaste en D.\n\nRECORRIDO REGISTRADO\nVértices: A → B → C → A → D.\nAristas: AB → BC → CA → AD.",
+    "fase": "victoria",
+    "segundos": 29.16662096977234,
+    "aristas": "AB, BC, CA, AD",
+    "posicion": "75.57622528076172, 15.885136604309082, 145.5762176513672"
+  },
+  "observacion": "El recorrido comprobó que no se regeneraron carpetas Peligros y que WalkSpeed permaneció en 16. Studio se desconectó después de esa prueba; no se obtuvo la lectura final de geometría.",
+  "conservados": "Fuego decorativo, mapas, puentes, Cerberus, derrumbe y validación del grafo."
+}

@@ -1,0 +1,177 @@
+{
+  "fecha": "2026-10-31",
+  "placeId": 74011338627746,
+  "alcance": "Ocho accesos activos del nivel 1",
+  "retiro": {
+    "BaseParts": 362,
+    "fuegos": 10,
+    "respaldo": "ServerStorage.RespaldoAccesosNivel1_20261031",
+    "raices": 152
+  },
+  "rocasPinchos": 17,
+  "portalesAdicionales": 5,
+  "objetivosRestantes": 0,
+  "objetosProtegidosIguales": true,
+  "colisiones": {
+    "cantidad": 56,
+    "carriles": [
+      -12,
+      -9,
+      -4,
+      0,
+      4,
+      9,
+      12
+    ],
+    "resultado": [
+      {
+        "puente": "AB",
+        "isla": "A",
+        "bloqueos": []
+      },
+      {
+        "puente": "CA",
+        "isla": "A",
+        "bloqueos": []
+      },
+      {
+        "puente": "AD",
+        "isla": "A",
+        "bloqueos": []
+      },
+      {
+        "puente": "AD",
+        "isla": "D",
+        "bloqueos": []
+      },
+      {
+        "puente": "BC",
+        "isla": "C",
+        "bloqueos": []
+      },
+      {
+        "puente": "CA",
+        "isla": "C",
+        "bloqueos": []
+      },
+      {
+        "puente": "BC",
+        "isla": "B",
+        "bloqueos": []
+      },
+      {
+        "puente": "AB",
+        "isla": "B",
+        "bloqueos": []
+      }
+    ]
+  },
+  "geometriaRocasPortales": [
+    {
+      "puente": "AB",
+      "ancho": 30.60716215695752,
+      "isla": "A",
+      "alcance": 43.866329193115234,
+      "piezas": []
+    },
+    {
+      "puente": "CA",
+      "ancho": 30.60716783403232,
+      "isla": "A",
+      "alcance": 43.866336822509766,
+      "piezas": []
+    },
+    {
+      "puente": "AD",
+      "ancho": 35.537155626761766,
+      "isla": "A",
+      "alcance": 44.024391174316406,
+      "piezas": []
+    },
+    {
+      "puente": "AD",
+      "ancho": 35.53715999922349,
+      "isla": "D",
+      "alcance": 44.02439880371094,
+      "piezas": []
+    },
+    {
+      "puente": "BC",
+      "ancho": 30.00437439168628,
+      "isla": "C",
+      "alcance": 43.84699249267578,
+      "piezas": []
+    },
+    {
+      "puente": "CA",
+      "ancho": 30.6071640871936,
+      "isla": "C",
+      "alcance": 43.866329193115234,
+      "piezas": []
+    },
+    {
+      "puente": "BC",
+      "ancho": 30.00436836098699,
+      "isla": "B",
+      "alcance": 43.84700012207031,
+      "piezas": []
+    },
+    {
+      "puente": "AB",
+      "ancho": 30.60716514218662,
+      "isla": "B",
+      "alcance": 43.86634063720703,
+      "piezas": []
+    }
+  ],
+  "visibilidad": {
+    "metodo": "Intersección de cajas proyectadas para toda decoración visible sobre 15 studs, entre 30 studs desde el centro y 6 studs tras el primer tablón; ancho completo del tablero.",
+    "resultado": [
+      {
+        "isla": "A",
+        "puente": "AB",
+        "piezas": []
+      },
+      {
+        "isla": "A",
+        "puente": "CA",
+        "piezas": []
+      },
+      {
+        "isla": "A",
+        "puente": "AD",
+        "piezas": []
+      },
+      {
+        "isla": "D",
+        "puente": "AD",
+        "piezas": []
+      },
+      {
+        "isla": "C",
+        "puente": "BC",
+        "piezas": []
+      },
+      {
+        "isla": "C",
+        "puente": "CA",
+        "piezas": []
+      },
+      {
+        "isla": "B",
+        "puente": "BC",
+        "piezas": []
+      },
+      {
+        "isla": "B",
+        "puente": "AB",
+        "piezas": []
+      }
+    ]
+  },
+  "constructor": {
+    "moduloCarga": true,
+    "fuente": "ServerStorage.EslabonReferenciaNivel2"
+  },
+  "pruebaEnPlay": false
+}

@@ -1,0 +1,9 @@
+{
+  "algoritmo": "SHA-256",
+  "fuentes": {
+    "ServerScriptService/DetectorCruces.luau": "d52ed96994d64fc7c0635c48e7a5def801fbe019fbe445d7589ca9ce18fb5ba7",
+    "ServerScriptService/GeneradorNivel.luau": "37ff913be9458217e278dd4ea5edc1ac8eb27a127e812a4908a3e23836d1003a",
+    "ServerScriptService/EscenarioNivel.luau": "1e4fb0da4222e5d2ec3a38935b016b27cf2ae358fcb854c923a531c3433129fd",
+    "ServerScriptService/UnionesPuentes.luau": "34752803a66239878d7b76fb0b45ef469ebe6f8385436d5640d7a896166322cd"
+  }
+}

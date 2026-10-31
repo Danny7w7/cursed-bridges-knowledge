@@ -1,0 +1,84 @@
+---
+tags: [cursed-bridges, nivel-2, escenario]
+actualizado: 2026-10-31
+estado: escenario-construido-mecanica-pendiente
+---
+
+# Nivel 2: La ruta sin retorno
+
+Volver a [[00 Cursed Bridges]]. Estado: [[Estado y pendientes]]. Lista de trabajo: [[Plan de integración del nivel 2]].
+
+## Entrega
+
+Escenario tridimensional construido y editable en `Workspace.Niveles.Nivel2_Escenario`. Contiene exactamente ocho islas y once puentes, sin habilitar la partida del nivel 2.
+
+La especificación reemplaza el diseño anterior de cinco islas. Tras observar el primer montaje, el usuario pidió compactar las distancias y juntar mejor los tramos; la versión entregada incorpora ambos ajustes.
+
+## Grafo y distribución
+
+Aristas no dirigidas: **AC, AG, CF, CH, FB, BE, BG, BD, EG, GD y DH**.
+
+Grados: A=2, B=4, C=3, D=3, E=2, F=2, G=4, H=2. Cada conexión dispone de un camino y acceso propio. El paso 1 de integración retiró las columnas y adornos que invadían sus entradas; por elección del usuario también se retiraron los diez muelles decorativos sin conexión. Quedan 22 caminos, uno por extremo de puente.
+
+Origen de superficie: **(2500, 12, 0)**. Coordenadas X/Z relativas:
+
+| Isla | X | Z |
+|---|---:|---:|
+| A | 220 | 350 |
+| B | -100 | 40 |
+| C | -20 | 520 |
+| D | 20 | 210 |
+| E | 0 | -140 |
+| F | -190 | 330 |
+| G | 110 | 20 |
+| H | 25 | 365 |
+
+Todos los suelos permanecen a Y=12. Las letras son visibles; A indica INICIO y H DESTINO. Ningún puente tiene un tratamiento que identifique la solución. Las conexiones no se cruzan y la disposición es irregular.
+
+La mayor distancia entre islas conectadas se redujo de unos 971 a 348 studs. La envolvente de centros pasó de 900×1160 a 410×660. La distancia mínima entre islas es de 155,08 studs y cada visual queda contenido en un radio de 68,24, por lo que sus geometrías no se superponen.
+
+## Modelos y uniones
+
+Las islas reutilizan la plantilla existente a escala 1,8. Los puentes reutilizan AB como patrón: mismo tamaño de piezas, materiales, colores y mallas. Las once aristas se componen de 19 tramos y 605 tablones en total.
+
+Las juntas entre módulos, que inicialmente tenían unos 17,46 studs entre tablones extremos, se acercaron a 5,24. Ese intervalo está cubierto por dos tablones adicionales del mismo modelo. Las barandas quedan próximas y usan eslabones existentes como enlace. Los tramos comparten la zona de acople; un desfase de posición de 0,03 studs evita planos coincidentes, sin cambiar escalas.
+
+Los 22 accesos de piedra conectan todo el ancho del tablero con el suelo de las islas. Se conserva el acabado Cobblestone y el color de los muelles. Permanecen dentro de AccesosPuentes en cada isla.
+
+La lava es una copia independiente del modelo global, con sus mismas dimensiones y apariencia. No se añadieron assets externos ni se modificó iluminación o clima.
+
+## Paso 1 de integración · HECHO
+
+Se despejaron los 22 accesos: portales con sus adornos, 72 agujas/rocas y doce conjuntos de altar que sobresalían hacia los pasos. Después se retiraron completos los diez muelles sin puente, incluidos sus caminos y adornos, según la elección del usuario al revisar F.
+
+Los 22 caminos reales conservan sus cinco placas, la corrección de superficies coplanares y su alineación. Se solapan aproximadamente 7,01 studs con sus accesos de piedra. Se conservaron las ocho islas, las once conexiones, los 605 tablones y los 22 accesos; el escenario contiene ahora 3.805 BaseParts.
+
+Pasaron 154 barridos de colisión y 4.440 muestras de suelo, sin obstáculos ni huecos detectados. No queda decoración alta invadiendo la zona de entrada. El mayor cambio de altura medido entre muestras consecutivas fue de 0,552 studs. La comprobación se hizo en Edición; no se realizó un nuevo recorrido en Play.
+
+Respaldo de las 2.390 BaseParts retiradas: `ServerStorage.RespaldoAccesosNivel2_20261031`. Las rutas y padres originales están registrados como atributos. Evidencia y documentación anterior: `Desarrollo/Accesos-Nivel2-2026-10-31/`.
+
+La huella de las piezas conservadas coincide antes y después de cada retiro; incluye las posiciones, dimensiones y materiales del nivel 1, la plantilla y los puentes del nivel 2. No se modificaron controladores ni se activó el nivel. El siguiente bloque es registrar el objetivo jugable; ver [[Plan de integración del nivel 2]].
+
+## Construcción e integración posterior
+
+`ServerStorage.ConstructorEscenarioNivel2` contiene herramientas manuales: iniciar, crearIsla, crearPuente, verificar, finalizar y compactar. Solo se ejecutan en Edición. Iniciar rechaza un escenario existente. Compactar elimina los puentes y accesos de este borrador para reconstruirlos; no usarlo después de ediciones manuales sin conservarlas.
+
+La herramienta escribe exclusivamente el escenario nuevo. El nivel 1 y las plantillas se usan como referencias de lectura. Durante la sesión se reconectó Studio y se conservó la firma inicial junto con una referencia renovada; la comparación final verifica que esa referencia y las plantillas permanecen iguales.
+
+Para integrar la mecánica después: acordar objetivo y visitas, configurar la trayectoria, actualizar catálogos y presentación, incorporar Cerberus y probar transición y reinicio. Solo entonces renombrar a Nivel2. La referencia A → C → F → B → E → G → D → H no se muestra en el escenario ni constituye todavía un objetivo configurado.
+
+## Verificación
+
+- Ocho islas, once conexiones exactas y 22 accesos.
+- Tamaños, materiales y texturas de los visuales y tramos coinciden con sus referencias.
+- 35.982 muestras de suelo distribuidas por centro y laterales: sin huecos.
+- Ninguna intersección de colisión entre estructuras de puentes distintos.
+- 38 casos físicos de ida y vuelta con Humanoid y saltos deshabilitados: 22 encuentros con islas, ocho juntas entre módulos y ocho accesos completos de B/G. Sin caídas ni atascos.
+- Montaje original: 6.195 piezas. Tras despejar los accesos y retirar muelles sin puente: 3.805 BaseParts. Todas las pruebas temporales quedaron retiradas.
+- No se activó el nivel en menús ni se añadieron objetivos o cambios a los controladores.
+
+Trabajo realizado por MCP, sin controlar el PC ni tomar capturas. Guardar el place desde Studio.
+
+## Respaldo
+
+`Desarrollo/Nivel2-Escenario-2026-10-30/` contiene constructor, medidas, conexiones, comprobaciones, pruebas manuales y huellas SHA-256. No contiene las mallas ni sustituye guardar el proyecto en Studio.

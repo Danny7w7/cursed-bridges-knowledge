@@ -1,0 +1,522 @@
+{
+  "estado": "escenario_listo",
+  "protecciones": {
+    "nivel1": "11149595:458653417",
+    "PuenteRecto": "431080931:2001584913",
+    "Isla": "1206526197:2090098480",
+    "PuenteLazo": "301122280:1332374602",
+    "PuenteParalelas": "674838911:1486719832"
+  },
+  "placeId": 74011338627746,
+  "referenciaInicial": "{\"nivel1\":\"616771879:244028149\",\"PuenteRecto\":\"431080931:2001584913\",\"Isla\":\"1206526197:2090098480\",\"PuenteLazo\":\"301122280:1332374602\",\"PuenteParalelas\":\"674838911:1486719832\"}",
+  "integrado": false,
+  "islas": [
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2720,
+        12,
+        350
+      ],
+      "id": "A",
+      "muelles": [
+        {
+          "vecino": "G",
+          "nombre": "Muelle_2",
+          "direccion": [
+            -0.3162277638912201,
+            0,
+            -0.9486833214759827
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.950369656085968,
+            0,
+            0.31112298369407654
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_4",
+          "direccion": [
+            0.14939983189105988,
+            0,
+            0.9887768626213074
+          ]
+        },
+        {
+          "vecino": "C",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.8160244822502136,
+            0,
+            0.5780173540115356
+          ]
+        }
+      ],
+      "letrero": "A\nINICIO",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2400,
+        12,
+        40
+      ],
+      "id": "B",
+      "muelles": [
+        {
+          "vecino": "D",
+          "nombre": "Muelle_4",
+          "direccion": [
+            0.5766832232475281,
+            0,
+            0.8169678449630737
+          ]
+        },
+        {
+          "vecino": "G",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.9954954981803894,
+            0,
+            -0.09480909258127213
+          ]
+        },
+        {
+          "vecino": "E",
+          "nombre": "Muelle_2",
+          "direccion": [
+            0.4856429398059845,
+            0,
+            -0.8741572499275208
+          ]
+        },
+        {
+          "vecino": "F",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.29639920592308044,
+            0,
+            0.9550641179084778
+          ]
+        }
+      ],
+      "letrero": "B",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2480,
+        12,
+        520
+      ],
+      "id": "C",
+      "muelles": [
+        {
+          "vecino": "",
+          "nombre": "Muelle_4",
+          "direccion": [
+            -0.11206397414207458,
+            0,
+            0.9937009811401367
+          ]
+        },
+        {
+          "vecino": "H",
+          "nombre": "Muelle_2",
+          "direccion": [
+            0.27881020307540894,
+            0,
+            -0.9603462219238281
+          ]
+        },
+        {
+          "vecino": "A",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.8160244822502136,
+            0,
+            -0.5780173540115356
+          ]
+        },
+        {
+          "vecino": "F",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.6667948365211487,
+            0,
+            -0.7452412843704224
+          ]
+        }
+      ],
+      "letrero": "C",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2520,
+        12,
+        210
+      ],
+      "id": "D",
+      "muelles": [
+        {
+          "vecino": "G",
+          "nombre": "Muelle_2",
+          "direccion": [
+            0.4280863404273987,
+            0,
+            -0.9037378430366516
+          ]
+        },
+        {
+          "vecino": "B",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.5766832232475281,
+            0,
+            -0.8169678449630737
+          ]
+        },
+        {
+          "vecino": "H",
+          "nombre": "Muelle_4",
+          "direccion": [
+            0.03224129229784012,
+            0,
+            0.999480128288269
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.9790480136871338,
+            0,
+            0.2036294937133789
+          ]
+        }
+      ],
+      "letrero": "D",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2500,
+        12,
+        -140
+      ],
+      "id": "E",
+      "muelles": [
+        {
+          "vecino": "",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.9476696252822876,
+            0,
+            -0.31925275921821594
+          ]
+        },
+        {
+          "vecino": "G",
+          "nombre": "Muelle_4",
+          "direccion": [
+            0.5665287971496582,
+            0,
+            0.8240419030189514
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_2",
+          "direccion": [
+            -0.047576453536748886,
+            0,
+            -0.9988675713539124
+          ]
+        },
+        {
+          "vecino": "B",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.4856429398059845,
+            0,
+            0.8741572499275208
+          ]
+        }
+      ],
+      "letrero": "E",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2310,
+        12,
+        330
+      ],
+      "id": "F",
+      "muelles": [
+        {
+          "vecino": "",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.9770851135253906,
+            0,
+            0.21284885704517365
+          ]
+        },
+        {
+          "vecino": "C",
+          "nombre": "Muelle_4",
+          "direccion": [
+            0.6667948365211487,
+            0,
+            0.7452412843704224
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.9770851135253906,
+            0,
+            -0.21284885704517365
+          ]
+        },
+        {
+          "vecino": "B",
+          "nombre": "Muelle_2",
+          "direccion": [
+            0.29639920592308044,
+            0,
+            -0.9550641179084778
+          ]
+        }
+      ],
+      "letrero": "F",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2610,
+        12,
+        20
+      ],
+      "id": "G",
+      "muelles": [
+        {
+          "vecino": "D",
+          "nombre": "Muelle_4",
+          "direccion": [
+            -0.4280863404273987,
+            0,
+            0.9037378430366516
+          ]
+        },
+        {
+          "vecino": "B",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.9954954981803894,
+            0,
+            0.09480909258127213
+          ]
+        },
+        {
+          "vecino": "E",
+          "nombre": "Muelle_2",
+          "direccion": [
+            -0.5665287971496582,
+            0,
+            -0.8240419030189514
+          ]
+        },
+        {
+          "vecino": "A",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.3162277638912201,
+            0,
+            0.9486833214759827
+          ]
+        }
+      ],
+      "letrero": "G",
+      "escala": 1.7999999523162842
+    },
+    {
+      "firmaAcabados": "1854234626:1791449636",
+      "superficie": [
+        2525,
+        12,
+        365
+      ],
+      "id": "H",
+      "muelles": [
+        {
+          "vecino": "C",
+          "nombre": "Muelle_4",
+          "direccion": [
+            -0.27881020307540894,
+            0,
+            0.9603462219238281
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_3",
+          "direccion": [
+            0.9921784400939941,
+            0,
+            0.1248275637626648
+          ]
+        },
+        {
+          "vecino": "D",
+          "nombre": "Muelle_2",
+          "direccion": [
+            -0.03224129229784012,
+            0,
+            -0.999480128288269
+          ]
+        },
+        {
+          "vecino": "",
+          "nombre": "Muelle_1",
+          "direccion": [
+            -0.9921784400939941,
+            0,
+            -0.1248275637626648
+          ]
+        }
+      ],
+      "letrero": "H\nDESTINO",
+      "escala": 1.7999999523162842
+    }
+  ],
+  "lava": {
+    "posicion": [
+      2500,
+      -60,
+      0
+    ],
+    "size": [
+      2048,
+      16,
+      2048
+    ]
+  },
+  "ruta": "Workspace.Niveles.Nivel2_Escenario",
+  "notaReferencia": "Referencia renovada tras reconexión de Studio; no se escribe sobre el nivel 1 ni las plantillas.",
+  "puentes": [
+    {
+      "ancho": 30.60715675354004,
+      "to": "C",
+      "from": "A",
+      "id": "AC",
+      "tablones": 97,
+      "tramos": 3,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "G",
+      "from": "A",
+      "id": "AG",
+      "tablones": 130,
+      "tramos": 4,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "D",
+      "from": "B",
+      "id": "BD",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "E",
+      "from": "B",
+      "id": "BE",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "G",
+      "from": "B",
+      "id": "BG",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "F",
+      "from": "C",
+      "id": "CF",
+      "tablones": 64,
+      "tramos": 2,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "H",
+      "from": "C",
+      "id": "CH",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "H",
+      "from": "D",
+      "id": "DH",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "G",
+      "from": "E",
+      "id": "EG",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "B",
+      "from": "F",
+      "id": "FB",
+      "tablones": 97,
+      "tramos": 3,
+      "escalaTramos": 1.2863168716430664
+    },
+    {
+      "ancho": 30.60715675354004,
+      "to": "D",
+      "from": "G",
+      "id": "GD",
+      "tablones": 31,
+      "tramos": 1,
+      "escalaTramos": 1.2863168716430664
+    }
+  ]
+}

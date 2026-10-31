@@ -1,0 +1,70 @@
+{
+  "placeId": 74011338627746,
+  "ruta": "Workspace.Niveles.Nivel1",
+  "atributos": {
+    "LevelId": 1,
+    "VentajaInicial": 12,
+    "RetardoDerrumbe": 1,
+    "AvisoSalto": 2,
+    "DuracionSalto": 1.2,
+    "GraciaAterrizaje": 1,
+    "VelocidadJugador": 16,
+    "UsarConfiguracionPublicada": false
+  },
+  "islas": [
+    {
+      "id": "A",
+      "posicion": [
+        0,
+        9,
+        70
+      ]
+    },
+    {
+      "id": "B",
+      "posicion": [
+        -70,
+        9,
+        -52.5
+      ]
+    },
+    {
+      "id": "C",
+      "posicion": [
+        70,
+        9,
+        -52.5
+      ]
+    },
+    {
+      "id": "D",
+      "posicion": [
+        106.06602478027344,
+        9,
+        176.06602478027344
+      ]
+    }
+  ],
+  "puentes": [
+    {
+      "id": "AB",
+      "from": "A",
+      "to": "B"
+    },
+    {
+      "id": "BC",
+      "from": "B",
+      "to": "C"
+    },
+    {
+      "id": "CA",
+      "from": "C",
+      "to": "A"
+    },
+    {
+      "id": "AD",
+      "from": "A",
+      "to": "D"
+    }
+  ]
+}

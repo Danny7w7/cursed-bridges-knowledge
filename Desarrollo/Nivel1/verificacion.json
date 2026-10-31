@@ -1,0 +1,53 @@
+{
+  "fecha": "2026-10-30",
+  "placeId": 74011338627746,
+  "alcance": "Nivel 1",
+  "matematica": 18,
+  "integracion": 138,
+  "fuentesVerificadas": 20,
+  "victoriaDirecta": {
+    "vertices": [
+      "A",
+      "B",
+      "C",
+      "A",
+      "D"
+    ],
+    "segundos": 30.4624,
+    "efectosCorregidos": true
+  },
+  "victoriaInversa": {
+    "vertices": [
+      "A",
+      "C",
+      "B",
+      "A",
+      "D"
+    ],
+    "segundos": 33.8853
+  },
+  "metaSinVisitas": {
+    "vertices": [
+      "A",
+      "D"
+    ],
+    "resultado": "derrota",
+    "codigo": "sin_salida"
+  },
+  "piezasAnimadas": 149,
+  "piezasRestauradas": 176,
+  "animacionCerberus": {
+    "cuerpoSigueRaiz": true,
+    "modos": [
+      "reposo",
+      "preparando_salto",
+      "saltando",
+      "aterrizando",
+      "caminando"
+    ]
+  },
+  "consolaMecanica": "Sin errores nuevos en la prueba final",
+  "avisosExternos": "Kohl's Admin: acceso de Studio a DataStore no habilitado",
+  "estadoFinal": "Edit",
+  "guardadoPlace": "Manual por el usuario; no se publica desde MCP"
+}

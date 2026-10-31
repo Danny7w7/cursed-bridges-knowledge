@@ -1,0 +1,37 @@
+{
+  "fecha": "2026-10-31",
+  "paso": 2,
+  "estado": "hecho",
+  "objetoModificado": "ReplicatedStorage.LevelData",
+  "objetivo": {
+    "tipo": "trayectoria",
+    "inicio": "A",
+    "final": "H",
+    "islasObligatorias": []
+  },
+  "islas": 8,
+  "aristas": 11,
+  "pruebas": {
+    "correctas": 59,
+    "nivel2Activado": false,
+    "regresionReglas": 18,
+    "minPuentes": 2,
+    "trayectoriasValidas": 10,
+    "nivel1SinCambios": true,
+    "maxPuentes": 7
+  },
+  "verificacion": {
+    "SoloEscenario": true,
+    "nombre": "Nivel2_Escenario",
+    "bytesLevelData": 2759,
+    "geometria": {
+      "huella": "1643781405:201734747",
+      "piezas": 7123
+    }
+  },
+  "geometriaAntes": {
+    "huella": "1643781405:201734747",
+    "piezas": 7123
+  },
+  "pruebaPlay": false
+}

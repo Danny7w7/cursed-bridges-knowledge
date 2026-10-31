@@ -1,0 +1,49 @@
+{
+  "textosEducativos": 22,
+  "interfaz": {
+    "correctas": 16,
+    "medidas": {
+      "contenido": "672, 395.5",
+      "ventana": "720, 550.5",
+      "pantalla": "1583, 792",
+      "texto": "651, 252"
+    }
+  },
+  "cinematica": {
+    "textos": {
+      "Un mapa, un grafo": true,
+      "CERBERUS": true,
+      "Seguirá tu recorrido después de la ventaja inicial. No dejes que te alcance.": true,
+      "Dos senderos posibles": true,
+      "Hay dos senderos que cumplen el objetivo de este nivel. Elige tu recorrido sin repetir puentes.": true,
+      "El mapa representa un grafo: las islas son vértices y los puentes son aristas.": true
+    },
+    "preparacionRespetada": true,
+    "modo": "juego",
+    "titulos": {
+      "EL PRIMER SENDERO": true,
+      "Sendero · Construye un sendero sin repetir puentes. Elige tu propio recorrido.": true,
+      "NIVEL I": true
+    }
+  },
+  "matematicas": 18,
+  "integracion": 138,
+  "cerberus": 23,
+  "victoria": {
+    "vertices": "A → B → C → A → D",
+    "mensaje": "¡Nivel 1 completado!\n\nConstruiste un sendero: no repetiste ninguna arista. Volviste a A; repetir vértices está permitido en un sendero.\n\nOBJETIVO CUMPLIDO\nVisitaste B y C y terminaste en D.\n\nRECORRIDO REGISTRADO\nVértices: A → B → C → A → D.\nAristas: AB → BC → CA → AD.",
+    "fase": "victoria",
+    "segundos": 28.782755851745605,
+    "aristas": "AB, BC, CA, AD",
+    "posicion": "75.8403091430664, 15.96552848815918, 145.84027099609375"
+  },
+  "objetivoIncompleto": {
+    "vertices": "A → D",
+    "mensaje": "Te quedaste sin un puente legal y transitable.\n\nLos cruces registrados forman un sendero: no repetiste ninguna arista.\n\nOBJETIVO PENDIENTE\nFaltó visitar B y C.\n\nRECORRIDO REGISTRADO\nVértices: A → D.\nAristas: AD.",
+    "fase": "derrota",
+    "segundos": 6.7718729972839355,
+    "aristas": "AD",
+    "posicion": "75.80074310302734, 15.828170776367188, 145.80067443847656"
+  },
+  "fixtureTemporalRetirado": true
+}

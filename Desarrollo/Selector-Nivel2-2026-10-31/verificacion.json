@@ -1,0 +1,39 @@
+{
+  "fecha": "2026-10-31",
+  "solicitud": "Habilitar el nivel 2 en el selector inicial para probarlo.",
+  "edicion": {
+    "nombre": "Nivel2",
+    "soloEscenario": false,
+    "geometria": {
+      "huella": "6947431:927898687",
+      "piezas": 7811
+    }
+  },
+  "pruebaCarga": {
+    "intento": 2,
+    "fase": "preparacion",
+    "etiquetasTrayectoria": 3,
+    "nombreSelector": "La ruta sin retorno",
+    "posicion": "2720, 17, 350",
+    "nivel": 2,
+    "intentoPrevioNivel1": 4
+  },
+  "pruebaLava": {
+    "lava": "lava",
+    "regresoNivel1": true,
+    "reintentoNivel2": 3
+  },
+  "geometriaAntes": {
+    "huella": "6947431:927898687",
+    "piezas": 7811
+  },
+  "archivos": [
+    "game.ReplicatedStorage.CatalogoNiveles",
+    "game.StarterPlayer.StarterPlayerScripts.UIController",
+    "game.StarterPlayer.StarterPlayerScripts.MenuPrincipal",
+    "game.ServerScriptService.GameController",
+    "game.ServerScriptService.EscenarioNivel"
+  ],
+  "consolaConsultada": "sin errores",
+  "matrizCompletaNivel2": false
+}

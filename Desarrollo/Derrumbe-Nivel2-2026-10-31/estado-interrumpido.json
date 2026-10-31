@@ -1,0 +1,15 @@
+{
+  "fecha": "2026-10-31",
+  "estado": "implementado-pendiente-validacion",
+  "reproduccionAntes": {
+    "estructuraTotal": 64,
+    "estructuraCaidaAlPrimerInstante": 64
+  },
+  "geometriaAntes": {
+    "huella": "1731574916:1576457624",
+    "piezas": 7811
+  },
+  "fuentesCoincidenConParche": true,
+  "pruebasPosterioresAlParche": false,
+  "playDetenido": true
+}

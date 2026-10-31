@@ -1,0 +1,321 @@
+{
+  "islas": 8,
+  "puentes": 11,
+  "accesos": 22,
+  "tramos": 19,
+  "tablones": 605,
+  "piezas": 6195,
+  "raycast": {
+    "solapesPuentes": [],
+    "muestras": 35982,
+    "puentes": [
+      {
+        "id": "AC",
+        "muestras": 4401,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "AG",
+        "muestras": 5364,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "CF",
+        "muestras": 3690,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "CH",
+        "muestras": 2007,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "FB",
+        "muestras": 4572,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "BE",
+        "muestras": 2808,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "BG",
+        "muestras": 2898,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "BD",
+        "muestras": 2853,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "EG",
+        "muestras": 2601,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "GD",
+        "muestras": 2889,
+        "huecos": 0,
+        "ejemplos": []
+      },
+      {
+        "id": "DH",
+        "muestras": 1899,
+        "huecos": 0,
+        "ejemplos": []
+      }
+    ],
+    "huecos": 0
+  },
+  "fisica": [
+    {
+      "nombre": "Acceso_AC_From",
+      "minY": 15.149404525756836,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_AC_To",
+      "minY": 15.148335456848145,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_AG_From",
+      "minY": 15.14370346069336,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_AG_To",
+      "minY": 15.137001991271973,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BD_From",
+      "minY": 15.144817352294922,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BD_To",
+      "minY": 15.122977256774902,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BE_From",
+      "minY": 15.151040077209473,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BE_To",
+      "minY": 15.10920524597168,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BG_From",
+      "minY": 15.140520095825195,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_BG_To",
+      "minY": 15.148398399353027,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_CF_From",
+      "minY": 15.106751441955566,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_CF_To",
+      "minY": 15.172897338867188,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_CH_From",
+      "minY": 15.145547866821289,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_CH_To",
+      "minY": 15.147110939025879,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_DH_From",
+      "minY": 15.145637512207031,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_DH_To",
+      "minY": 15.138937950134277,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_EG_From",
+      "minY": 15.145317077636719,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_EG_To",
+      "minY": 15.11475658416748,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_FB_From",
+      "minY": 15.146139144897461,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_FB_To",
+      "minY": 15.134136199951172,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_GD_From",
+      "minY": 15.142191886901855,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Acceso_GD_To",
+      "minY": 15.1506929397583,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_AC_1",
+      "minY": 15.278253555297852,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_AC_2",
+      "minY": 15.30832290649414,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_AG_1",
+      "minY": 15.278331756591797,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_AG_2",
+      "minY": 15.308321952819824,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_AG_3",
+      "minY": 15.278282165527344,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_CF_1",
+      "minY": 15.278338432312012,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_FB_1",
+      "minY": 15.278346061706543,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Junta_FB_2",
+      "minY": 15.308349609375,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_B_BD",
+      "minY": 15.392237663269043,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_B_BE",
+      "minY": 15.397038459777832,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_B_BG",
+      "minY": 15.393045425415039,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_B_FB",
+      "minY": 15.433652877807617,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_G_AG",
+      "minY": 15.450459480285645,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_G_BG",
+      "minY": 15.356739044189453,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_G_EG",
+      "minY": 15.386041641235352,
+      "atasco": false,
+      "caida": false
+    },
+    {
+      "nombre": "Puerta_G_GD",
+      "minY": 15.435588836669922,
+      "atasco": false,
+      "caida": false
+    }
+  ],
+  "pruebasFisicas": 38,
+  "caidas": 0,
+  "atascos": 0,
+  "crucesEntrePuentes": 0,
+  "separacionMaximaAntes": 970.8243919473799,
+  "separacionMaximaAhora": 347.85054261852173,
+  "juntaAntes": 17.462589263916016,
+  "juntaAhora": 5.238964748382568,
+  "nivel1PlantillasCoincidenConReferenciaTrasReconexion": true,
+  "consolaFinalVacia": true
+}

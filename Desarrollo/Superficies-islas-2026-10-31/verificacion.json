@@ -1,0 +1,31 @@
+{
+  "fecha": "2026-10-31",
+  "placeId": 74011338627746,
+  "causa": "Solapamientos coplanares de 03_Losa_suelo y 04_Muelle_*_placa_*",
+  "modelos": 13,
+  "islasWorkspace": 12,
+  "plantillas": 1,
+  "piezasAjustadas": 384,
+  "paresAntes": 646,
+  "paresDespues": 0,
+  "maxDeltaEscala1_8": {
+    "losas": 0.18,
+    "caminos": 0.12
+  },
+  "proteccionAntes": {
+    "firma": "1959390989:1623582924",
+    "piezas": 9513
+  },
+  "proteccionDespues": {
+    "firma": "1959390989:1623582924",
+    "piezas": 9513
+  },
+  "alturas": {
+    "maxError": 8.900960288826809e-7,
+    "fallos": [],
+    "piezas": 384
+  },
+  "metodo": "Intersección conservadora de huellas orientadas de las MeshParts; separación vertical de caras superiores. Huella de propiedades ignora exclusivamente Y de las piezas previstas.",
+  "verificacionVisualPosterior": false,
+  "pruebaPlay": false
+}

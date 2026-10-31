@@ -1,0 +1,438 @@
+{
+  "fuegos": 6,
+  "puentes": [
+    {
+      "firma": "1882245814:1735374916",
+      "nombre": "Bridge_AB"
+    },
+    {
+      "firma": "137756844:49029233",
+      "nombre": "Bridge_AD"
+    },
+    {
+      "firma": "862652771:859736072",
+      "nombre": "Bridge_BC"
+    },
+    {
+      "firma": "347120900:15771755",
+      "nombre": "Bridge_CA"
+    }
+  ],
+  "raices": [
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_1_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_2_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_Cadena",
+      "clase": "Model",
+      "piezas": 35
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_Fuego_1",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_2_Fuego_2",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_1_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_2_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_Cadena",
+      "clase": "Model",
+      "piezas": 35
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_Fuego_1",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_3_Fuego_2",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_1_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_2_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_3_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_4_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_5_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_6_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_7_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_2_collar_pua_8_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_Cadena",
+      "clase": "Model",
+      "piezas": 35
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_Fuego_1",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.Embellecido.Muelle_4_Fuego_2",
+      "clase": "Model",
+      "piezas": 5
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_base_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_base_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_corona_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_corona_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_obelisco_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_2_obelisco_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_base_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_base_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_corona_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_corona_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_obelisco_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_3_obelisco_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_base_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_base_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_corona_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_corona_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_obelisco_-1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.05_Muelle_4_obelisco_1_Node",
+      "clase": "Model",
+      "piezas": 1
+    },
+    {
+      "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.06_Aguja_obsidiana_14_Node",
+      "clase": "Model",
+      "piezas": 1
+    }
+  ],
+  "suelo": {
+    "firma": "1351945092:1460371015",
+    "piezas": 15
+  },
+  "piezas": 208
+}

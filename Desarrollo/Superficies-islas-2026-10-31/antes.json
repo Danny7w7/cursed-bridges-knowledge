@@ -1,0 +1,2060 @@
+{
+  "fecha": "2026-10-31",
+  "diagnostico": "Caras superiores de losas y placas superpuestas y coplanares.",
+  "proteccion": {
+    "firma": "1959390989:1623582924",
+    "piezas": 9513
+  },
+  "plan": [
+    {
+      "visual": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual",
+      "pares": 47,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_2_placa_1_Node.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_2_placa_2_Node.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_2_placa_4_Node.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_2_placa_5_Node.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_3_placa_1_Node.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_3_placa_2_Node.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_3_placa_4_Node.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_3_placa_5_Node.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_4_placa_1_Node.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_4_placa_2_Node.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_4_placa_4_Node.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_A.Superficie.Visual.world.04_Muelle_4_placa_5_Node.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 52
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual",
+      "pares": 33,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.04_Muelle_1_placa_1_Node.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.04_Muelle_1_placa_2_Node.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.04_Muelle_1_placa_4_Node.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_D.Superficie.Visual.world.04_Muelle_1_placa_5_Node.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 42
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual",
+      "pares": 40,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_1_placa_1_Node.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_1_placa_2_Node.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_1_placa_4_Node.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_1_placa_5_Node.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_2_placa_1_Node.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_2_placa_2_Node.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_2_placa_4_Node.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_C.Superficie.Visual.world.04_Muelle_2_placa_5_Node.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 47
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual",
+      "pares": 40,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_3_placa_1_Node.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_3_placa_2_Node.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_3_placa_4_Node.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_3_placa_5_Node.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_4_placa_1_Node.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_4_placa_2_Node.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_4_placa_4_Node.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel1.Islands.Island_B.Superficie.Visual.world.04_Muelle_4_placa_5_Node.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 47
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_B.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_G.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.89200210571289,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual",
+      "pares": 54,
+      "paso": 0.05999999841054281,
+      "modificaciones": [
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892000198364258,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1799999952316284
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 11.892001152038574,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_1.04_Muelle_1_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_1.04_Muelle_1_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_1.04_Muelle_1_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_1.04_Muelle_1_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_2.04_Muelle_2_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_2.04_Muelle_2_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_2.04_Muelle_2_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_2.04_Muelle_2_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.07199764251709,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3.04_Muelle_3_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3.04_Muelle_3_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3.04_Muelle_3_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3.04_Muelle_3_placa_5",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_4.04_Muelle_4_placa_1",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_4.04_Muelle_4_placa_2",
+          "delta": 0.05999999841054281
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_4.04_Muelle_4_placa_4",
+          "delta": 0.11999999682108561
+        },
+        {
+          "y": 12.071998596191406,
+          "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_4.04_Muelle_4_placa_5",
+          "delta": 0.05999999841054281
+        }
+      ],
+      "maxCamino": 0.11999999682108561,
+      "maxLosa": 0.1799999952316284,
+      "piezas": 57
+    },
+    {
+      "visual": "ServerStorage.Isla",
+      "pares": 54,
+      "paso": 0.03333333333333333,
+      "modificaciones": [
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_07_Node.03_Losa_suelo_07",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_08_Node.03_Losa_suelo_08",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_09_Node.03_Losa_suelo_09",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_10_Node.03_Losa_suelo_10",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_14_Node.03_Losa_suelo_14",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_15_Node.03_Losa_suelo_15",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_16_Node.03_Losa_suelo_16",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_21_Node.03_Losa_suelo_21",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_24_Node.03_Losa_suelo_24",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_25_Node.03_Losa_suelo_25",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_35_Node.03_Losa_suelo_35",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_41_Node.03_Losa_suelo_41",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_48_Node.03_Losa_suelo_48",
+          "delta": 0.1
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_54_Node.03_Losa_suelo_54",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_55_Node.03_Losa_suelo_55",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -20.045991897583008,
+          "ruta": "ServerStorage.Isla.world.03_Losa_suelo_57_Node.03_Losa_suelo_57",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_1_placa_1_Node.04_Muelle_1_placa_1",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_1_placa_2_Node.04_Muelle_1_placa_2",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_1_placa_4_Node.04_Muelle_1_placa_4",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_1_placa_5_Node.04_Muelle_1_placa_5",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_2_placa_1_Node.04_Muelle_2_placa_1",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_2_placa_2_Node.04_Muelle_2_placa_2",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_2_placa_4_Node.04_Muelle_2_placa_4",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_2_placa_5_Node.04_Muelle_2_placa_5",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_3_placa_1_Node.04_Muelle_3_placa_1",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_3_placa_2_Node.04_Muelle_3_placa_2",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_3_placa_4_Node.04_Muelle_3_placa_4",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_3_placa_5_Node.04_Muelle_3_placa_5",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_4_placa_1_Node.04_Muelle_4_placa_1",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_4_placa_2_Node.04_Muelle_4_placa_2",
+          "delta": 0.03333333333333333
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_4_placa_4_Node.04_Muelle_4_placa_4",
+          "delta": 0.06666666666666667
+        },
+        {
+          "y": -19.945993423461914,
+          "ruta": "ServerStorage.Isla.world.04_Muelle_4_placa_5_Node.04_Muelle_4_placa_5",
+          "delta": 0.03333333333333333
+        }
+      ],
+      "maxCamino": 0.06666666666666667,
+      "maxLosa": 0.1,
+      "piezas": 57
+    }
+  ]
+}

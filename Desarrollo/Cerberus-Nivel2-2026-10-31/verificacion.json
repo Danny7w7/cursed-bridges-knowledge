@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-10-31",
+  "paso": 3,
+  "estado": "hecho",
+  "instalacion": {
+    "cerberus": {
+      "BaseParts": 323,
+      "streaming": "Persistent",
+      "escala": 1.2000000476837158
+    },
+    "configuracion": {
+      "UsarConfiguracionPublicada": false,
+      "GraciaAterrizaje": 1,
+      "VentajaInicial": 4,
+      "VelocidadJugador": 16,
+      "RetardoDerrumbe": 1,
+      "AvisoSalto": 2,
+      "DuracionSalto": 1.2
+    },
+    "roca": {
+      "BaseParts": 364,
+      "descendientes": 738
+    },
+    "atributosAnteriores": {
+      "UsarConfiguracionPublicada": {
+        "existe": false
+      },
+      "VentajaInicial": {
+        "existe": false
+      },
+      "GraciaAterrizaje": {
+        "existe": false
+      },
+      "VelocidadJugador": {
+        "existe": false
+      },
+      "RetardoDerrumbe": {
+        "existe": false
+      },
+      "AvisoSalto": {
+        "existe": false
+      },
+      "DuracionSalto": {
+        "existe": false
+      }
+    },
+    "posicion": [
+      2870,
+      12,
+      350,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      -1,
+      0,
+      0
+    ]
+  },
+  "pruebasAisladas": {
+    "correctas": 146,
+    "tiempoCapturaSimulado": 9.99999999999998,
+    "ventajaInicial": 4,
+    "escenariosDeSeguimiento": 20,
+    "muestrasSalto": 348,
+    "trayectoriasProbadas": 10,
+    "maxVelocidad": 16.002262830734253
+  },
+  "playAnimacion": {
+    "secuencia": "AC, CH",
+    "estados": {
+      "reposo": 120
+    },
+    "desplazamientoCuerpo": 343.81951904296875,
+    "maxSeparacionEstable": 1.3566473722457886,
+    "isla": "H",
+    "muestrasEstables": 119
+  },
+  "playReinicioServidor": {
+    "secuencia": "",
+    "raiz": "2870, 12, 350",
+    "restauracionPorControl": false
+  },
+  "playReinicioAnimacion": {
+    "secuencia": "",
+    "raiz": "2870, 12, 350",
+    "separacion": 1.2346453666687012,
+    "estado": "reposo"
+  },
+  "verificacionFinal": {
+    "proteccion": {
+      "huella": "1643781405:201734747",
+      "piezas": 7123
+    },
+    "nuevasPiezas": 688,
+    "muellesEnRoca": 0,
+    "soloEscenario": true,
+    "separacionMinimaX": 50.18758773803711,
+    "ventajaNivel1": 5,
+    "configuracion": {
+      "graciaAterrizaje": 1,
+      "ventajaInicial": 4,
+      "velocidadJugador": 16,
+      "retardoDerrumbe": 1,
+      "avisoSalto": 2,
+      "duracionSalto": 1.2
+    },
+    "partesCerberus": 323,
+    "nuevos": [
+      {
+        "descendientes": 684,
+        "nombre": "Cerberus",
+        "clase": "Model"
+      },
+      {
+        "descendientes": 738,
+        "nombre": "GuardianRock",
+        "clase": "Model"
+      },
+      {
+        "descendientes": 1,
+        "nombre": "GuardianGlow",
+        "clase": "Part"
+      }
+    ]
+  },
+  "partidaCompletaNivel2": false,
+  "observacionPlay": "La prueba de Play alimentó una cola virtual AC, CH al perseguidor. La captura y el reinicio lógico del controlador se probaron en copias aisladas. Tras expirar el controlador temporal de Play, el reinicio de animación se comprobó cambiando directamente la raíz replicada."
+}

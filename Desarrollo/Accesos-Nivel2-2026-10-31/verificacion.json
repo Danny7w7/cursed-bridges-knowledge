@@ -1,0 +1,388 @@
+{
+  "fecha": "2026-10-31",
+  "paso": 1,
+  "estado": "hecho",
+  "retiradoAccesos": {
+    "retirado": {
+      "accesos": 22,
+      "fuegos": 56,
+      "raices": 1650,
+      "BaseParts": 1650,
+      "categorias": {
+        "roca": 72,
+        "portal": 1518,
+        "altar": 60
+      },
+      "islas": [
+        {
+          "accesos": 3,
+          "isla": "C",
+          "altares": 2
+        },
+        {
+          "accesos": 2,
+          "isla": "E",
+          "altares": 2
+        },
+        {
+          "accesos": 2,
+          "isla": "F",
+          "altares": 1
+        },
+        {
+          "accesos": 4,
+          "isla": "B",
+          "altares": 2
+        },
+        {
+          "accesos": 4,
+          "isla": "G",
+          "altares": 2
+        },
+        {
+          "accesos": 2,
+          "isla": "A",
+          "altares": 1
+        },
+        {
+          "accesos": 2,
+          "isla": "H",
+          "altares": 0
+        },
+        {
+          "accesos": 3,
+          "isla": "D",
+          "altares": 2
+        }
+      ]
+    },
+    "respaldo": "ServerStorage.RespaldoAccesosNivel2_20261031"
+  },
+  "retiradoMuellesSinPuente": {
+    "muelles": 10,
+    "objetivosFirma": {
+      "huella": "1170535168:182088679",
+      "piezas": 740
+    },
+    "proteccion": {
+      "huella": "1643781405:201734747",
+      "piezas": 7123
+    },
+    "BaseParts": 740,
+    "registro": [
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_C.Superficie.Visual.Muelle_4",
+        "isla": "Island_C",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_2",
+        "isla": "Island_E",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_E.Superficie.Visual.Muelle_3",
+        "isla": "Island_E",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_3",
+        "isla": "Island_F",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_F.Superficie.Visual.Muelle_1",
+        "isla": "Island_F",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_3",
+        "isla": "Island_A",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_A.Superficie.Visual.Muelle_4",
+        "isla": "Island_A",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_1",
+        "isla": "Island_H",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_H.Superficie.Visual.Muelle_3",
+        "isla": "Island_H",
+        "piezas": 74
+      },
+      {
+        "ruta": "Workspace.Niveles.Nivel2_Escenario.Islands.Island_D.Superficie.Visual.Muelle_3",
+        "isla": "Island_D",
+        "piezas": 74
+      }
+    ],
+    "fuegos": 20
+  },
+  "verificacion": {
+    "desniveles": [],
+    "respaldo": {
+      "BaseParts": 2390,
+      "fuegos": 76
+    },
+    "colisiones": [],
+    "proteccion": {
+      "huella": "1643781405:201734747",
+      "piezas": 7123
+    },
+    "barridos": 154,
+    "maxDesnivel": 0.5515270233154297,
+    "decoracionVisible": [],
+    "placas": 110,
+    "huecos": [],
+    "gruposActivos": 22,
+    "puentes": 11,
+    "islas": 8,
+    "gruposInactivos": 0,
+    "entradas": 22,
+    "restantes": 0,
+    "muestrasSuelo": 4440
+  },
+  "conteo": {
+    "accesos": 22,
+    "nombre": "Nivel2_Escenario",
+    "SoloEscenario": true,
+    "BaseParts": 3805,
+    "tablones": 605
+  },
+  "proteccionInicial": {
+    "huella": "1468238878:378661016",
+    "piezas": 7863
+  },
+  "proteccionAntesRetiroMuelles": {
+    "huella": "1643781405:201734747",
+    "piezas": 7123
+  },
+  "alineacionCaminos": [
+    {
+      "vecino": "F",
+      "solape": 7.013212053156927,
+      "hasta": 46.98001534357669,
+      "unionDesde": 39.96680329041976,
+      "desde": 13.86001723393796,
+      "isla": "C",
+      "desviacion": 0.00020122528076171875,
+      "placas": 5
+    },
+    {
+      "vecino": "H",
+      "solape": 7.013454105500472,
+      "hasta": 46.98000727295877,
+      "unionDesde": 39.9665531674583,
+      "desde": 13.859897512197477,
+      "isla": "C",
+      "desviacion": 0.000213623046875,
+      "placas": 5
+    },
+    {
+      "vecino": "A",
+      "solape": 7.013599010852637,
+      "hasta": 46.98003836318856,
+      "unionDesde": 39.966439352335925,
+      "desde": 13.859898846894446,
+      "isla": "C",
+      "desviacion": 0.0001983642578125,
+      "placas": 5
+    },
+    {
+      "vecino": "G",
+      "solape": 7.013323044901568,
+      "hasta": 46.9799542427063,
+      "unionDesde": 39.96663119780473,
+      "desde": 13.859982967376709,
+      "isla": "E",
+      "desviacion": 0.000213623046875,
+      "placas": 5
+    },
+    {
+      "vecino": "B",
+      "solape": 7.013101291665684,
+      "hasta": 46.97980553522708,
+      "unionDesde": 39.966704243561395,
+      "desde": 13.860015326589327,
+      "isla": "E",
+      "desviacion": 0.00018978118896484375,
+      "placas": 5
+    },
+    {
+      "vecino": "C",
+      "solape": 7.0130013202712576,
+      "hasta": 46.979782581329346,
+      "unionDesde": 39.96678126105809,
+      "desde": 13.859668254852295,
+      "isla": "F",
+      "desviacion": 0.00030040740966796875,
+      "placas": 5
+    },
+    {
+      "vecino": "B",
+      "solape": 7.013416405529561,
+      "hasta": 46.98006837382916,
+      "unionDesde": 39.9666519682996,
+      "desde": 13.860107254832947,
+      "isla": "F",
+      "desviacion": 0.000152587890625,
+      "placas": 5
+    },
+    {
+      "vecino": "F",
+      "solape": 7.013300357654366,
+      "hasta": 46.979995894581116,
+      "unionDesde": 39.96669553692675,
+      "desde": 13.859975647777283,
+      "isla": "B",
+      "desviacion": 0.000152587890625,
+      "placas": 5
+    },
+    {
+      "vecino": "D",
+      "solape": 7.013248556635965,
+      "hasta": 46.980000084787626,
+      "unionDesde": 39.96675152815166,
+      "desde": 13.859992438405733,
+      "isla": "B",
+      "desviacion": 0.00012969970703125,
+      "placas": 5
+    },
+    {
+      "vecino": "G",
+      "solape": 7.012791029264186,
+      "hasta": 46.979824559427804,
+      "unionDesde": 39.96703353016362,
+      "desde": 13.859904749654229,
+      "isla": "B",
+      "desviacion": 0.000027418136596679688,
+      "placas": 5
+    },
+    {
+      "vecino": "E",
+      "solape": 7.0130977876211915,
+      "hasta": 46.97991241246466,
+      "unionDesde": 39.966814624843465,
+      "desde": 13.860015260875187,
+      "isla": "B",
+      "desviacion": 0.00014209747314453125,
+      "placas": 5
+    },
+    {
+      "vecino": "B",
+      "solape": 7.012935942674275,
+      "hasta": 46.97982074473054,
+      "unionDesde": 39.96688480205626,
+      "desde": 13.859904749654229,
+      "isla": "G",
+      "desviacion": 0.00003600120544433594,
+      "placas": 5
+    },
+    {
+      "vecino": "E",
+      "solape": 7.013136979747998,
+      "hasta": 46.97985506057739,
+      "unionDesde": 39.966718080829395,
+      "desde": 13.860032558441162,
+      "isla": "G",
+      "desviacion": 0.0003204345703125,
+      "placas": 5
+    },
+    {
+      "vecino": "A",
+      "solape": 7.0135678494697515,
+      "hasta": 46.98007620036611,
+      "unionDesde": 39.96650835089636,
+      "desde": 13.860103242993262,
+      "isla": "G",
+      "desviacion": 0.0001201629638671875,
+      "placas": 5
+    },
+    {
+      "vecino": "D",
+      "solape": 7.013562390057501,
+      "hasta": 46.9801983833313,
+      "unionDesde": 39.9666359932738,
+      "desde": 13.860068798065186,
+      "isla": "G",
+      "desviacion": 0.00017452239990234375,
+      "placas": 5
+    },
+    {
+      "vecino": "G",
+      "solape": 7.013260136498118,
+      "hasta": 46.98004555135971,
+      "unionDesde": 39.96678541486159,
+      "desde": 13.859983211457674,
+      "isla": "A",
+      "desviacion": 0.0002307891845703125,
+      "placas": 5
+    },
+    {
+      "vecino": "C",
+      "solape": 7.0133081232607495,
+      "hasta": 46.979897219389734,
+      "unionDesde": 39.966589096128985,
+      "desde": 13.859898846894446,
+      "isla": "A",
+      "desviacion": 0.00029850006103515625,
+      "placas": 5
+    },
+    {
+      "vecino": "C",
+      "solape": 7.013727254546694,
+      "hasta": 46.979961496591585,
+      "unionDesde": 39.96623424204489,
+      "desde": 13.859966176748259,
+      "isla": "H",
+      "desviacion": 0.00031566619873046875,
+      "placas": 5
+    },
+    {
+      "vecino": "D",
+      "solape": 7.013551969593863,
+      "hasta": 46.98004963478074,
+      "unionDesde": 39.96649766518688,
+      "desde": 13.860043977890157,
+      "isla": "H",
+      "desviacion": 0.0002912282943725586,
+      "placas": 5
+    },
+    {
+      "vecino": "H",
+      "solape": 7.013512057037403,
+      "hasta": 46.980011487808085,
+      "unionDesde": 39.96649943077068,
+      "desde": 13.859975313339376,
+      "isla": "D",
+      "desviacion": 0.0001914501190185547,
+      "placas": 5
+    },
+    {
+      "vecino": "G",
+      "solape": 7.013647987503241,
+      "hasta": 46.98014504328372,
+      "unionDesde": 39.96649705578048,
+      "desde": 13.860068732351046,
+      "isla": "D",
+      "desviacion": 0.0002002716064453125,
+      "placas": 5
+    },
+    {
+      "vecino": "B",
+      "solape": 7.013513719356119,
+      "hasta": 46.98009926691653,
+      "unionDesde": 39.96658554756041,
+      "desde": 13.860143118947725,
+      "isla": "D",
+      "desviacion": 0.000164031982421875,
+      "placas": 5
+    }
+  ],
+  "pruebaPlay": false
+}

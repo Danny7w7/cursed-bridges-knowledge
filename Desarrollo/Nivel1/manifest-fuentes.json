@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "algoritmo": "SHA-256",
+  "fuentes": {
+    "ReplicatedStorage/BridgeFX.luau": "17d6771df7e3f11a328b5ea09baabe52e2be050f406a5e908229429ab852817a",
+    "ReplicatedStorage/CerberusAnimator.luau": "583b94b3663fc1406b658ce5078c43acb791bd3938bd1423c85702732f7edce6",
+    "ReplicatedStorage/ContratosJuego.luau": "dc991b246d2d141f8d7f6686cc60324b71d653c68622d1d62812b4c498808d54",
+    "ReplicatedStorage/InterfazIntento.luau": "4d25aab947b6cb3c1c71489416d12dcdba8be90aff863c4b43a8d38e5625a09d",
+    "ReplicatedStorage/LevelData.luau": "69963486738634fbf9e7548f370249e35900e3559aa6fe4a91640270ec3254a0",
+    "ReplicatedStorage/ReglasRecorrido.luau": "ad6938d0d7c8753d496806c354244d2edb446e80a13f2f0c3b2aaac09cde06d6",
+    "ServerScriptService/BridgeBuilder.luau": "f1a5e83c0cbf8014df4d993a630e43e09aff2d92335cc43b465234174c664a13",
+    "ServerScriptService/ConfiguracionJuego.luau": "e48fcc803de5f1095812243c0bd6899177d3e4bb2d733ebfa923923820b0a4a5",
+    "ServerScriptService/DerrumbePuentes.luau": "acdc432da13a1a6e352458c447c955b1cecdd443f2ca35458233e0ed099eb49d",
+    "ServerScriptService/DetectorCruces.luau": "f647344de0e00c03534d0ff6fd5277d2f52e9e2ffe0d58cae929ffa2b9619c20",
+    "ServerScriptService/EscenarioNivel.luau": "8c10d7b46072966d342de97ddbe17883711179bc9d3f3bdbba53f9123bbb9e16",
+    "ServerScriptService/GameController.luau": "7399dec3fdbafc6be6d3a4b9a0db560a603b5605884adf41a598fdf41fedce53",
+    "ServerScriptService/MotorPartida.luau": "4705d73991d0a2c1f873c83a45df1052c86d3d89272d0130f3c068a4fd44431a",
+    "ServerScriptService/NavegacionGrafo.luau": "4b6b3955ff18ddcb9bbb2401664556a8b625d3c4fb28e561b3bf59874fdc9296",
+    "ServerScriptService/PersecucionCerberus.luau": "e857084fe1afdff2f7d54c51aa933977c811f2a74f1dd51cf7df79ca3ba14fda",
+    "ServerScriptService/PruebasNivel1.luau": "fdaadd91fb7f345b3487d052fd979cb0bc4705c9c390ce39b924662fbf27e502",
+    "ServerScriptService/PruebasReglasRecorrido.luau": "f0829ab044fd9822ed0ef50cf44810a4850bc742df9e612736f233aefd773b7a",
+    "StarterPlayer/StarterPlayerScripts/CerberusClient.luau": "cdbc452d3c5781b5584f6fa36862ca1cfec7e321948ce535e67ce6ad12c8e11b",
+    "StarterPlayer/StarterPlayerScripts/ClientePuentes.luau": "a81279e56941f1b8bde6cc4caec81fcb638b5b274d28c35a720ffa2f2a692310",
+    "StarterPlayer/StarterPlayerScripts/UIController.luau": "f3303ca52800c426beeed1357e6e698bdde34e82a7a13957258fa24fe04fb911"
+  }
+}

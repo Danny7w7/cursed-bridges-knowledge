@@ -1,0 +1,8 @@
+{
+  "algoritmo": "SHA-256",
+  "fuentes": {
+    "ServerScriptService/PruebasCerberusSeguidor.luau": "8f40bce078fe294d265af8b2f1523b677eb46f8bde8bcb5b583601110e50bcf6",
+    "ServerScriptService/MotorPartida.luau": "086c621f0bf09fd21dc3e8447eb8d5c76a57f7f9f23adb7d1a3d082e23cd3973",
+    "ServerScriptService/PersecucionCerberus.luau": "524c6b3538e577b9fb9fae5e1377ec53624023b9b06b466180774271ae5bf917"
+  }
+}

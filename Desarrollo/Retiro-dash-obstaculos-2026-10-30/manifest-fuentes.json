@@ -1,0 +1,10 @@
+{
+  "algoritmo": "SHA-256",
+  "fuentes": {
+    "pruebas/recorrido_sin_dash.luau": "a45a2a881ee958a490946bd5a9dc601218bf331c0cc43b79555dc5231ebd0046",
+    "ReplicatedStorage/InterfazIntento.luau": "48cf8ef4ac4c0c830966fb1f3e3f9cfe4159460d828c3d06f321aff53228d766",
+    "respaldo-anterior/ReplicatedStorage/InterfazIntento.luau": "685fbc67ae32ce2afcd3c58399a85279b32c84fccb811a2c1355e72053493635",
+    "respaldo-anterior/ServerScriptService/PeligrosPuentes.luau": "417ce8c6931fdfc171ab599455540830caf862d5a5bbc950be82398c8a8d02c3",
+    "respaldo-anterior/StarterPlayer/StarterPlayerScripts/Embestida.luau": "0f689b38e930c219c3a2a8cf5ba104fa16b9491ffa4b6f890ea9f30f6deec377"
+  }
+}

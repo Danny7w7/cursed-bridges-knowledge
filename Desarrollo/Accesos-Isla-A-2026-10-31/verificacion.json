@@ -1,0 +1,38 @@
+{
+  "fecha": "2026-10-31",
+  "alcance": "Nivel1.Islands.Island_A, muelles 2/3/4 y roca 06_Aguja_obsidiana_14",
+  "retirado": {
+    "raices": 82,
+    "BaseParts": 208,
+    "fuegos": 6
+  },
+  "restantes": 0,
+  "sueloIgual": true,
+  "puentesIguales": true,
+  "blockcasts": [
+    {
+      "puente": "AB",
+      "isla": "A",
+      "bloqueos": []
+    },
+    {
+      "puente": "CA",
+      "isla": "A",
+      "bloqueos": []
+    },
+    {
+      "puente": "AD",
+      "isla": "A",
+      "bloqueos": []
+    }
+  ],
+  "carriles": [
+    -12,
+    -9,
+    0,
+    9,
+    12
+  ],
+  "constructorCargaCorrectamente": true,
+  "pruebaEnPlay": false
+}

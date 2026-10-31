@@ -1,0 +1,11 @@
+{
+  "algoritmo": "SHA-256",
+  "fuentes": {
+    "StarterPlayer/StarterPlayerScripts/MenuPrincipal.luau": "395fa3f082b36513d849d01f44717a6d763922bdcc055782caa7c3916c38aa5d",
+    "ReplicatedStorage/CatalogoNiveles.luau": "67daadd36617746aed70634183a6352b733ec7693c9aed8a34dd50a51e9244f7",
+    "ServerScriptService/PruebasTextosEducativos.luau": "3c0ac17c232432634432ef347851a00cd07dccee2afd78e8cdc63d885e3a91bc",
+    "ServerScriptService/MotorPartida.luau": "ed0ebc9c32ba40c3e13de42a3ab3a50dfa7e8e49445bc7fc50dd5cc80b82feac",
+    "ReplicatedStorage/TextosEducativos.luau": "461e78513b6108b5af7987290482676054d9b6f5955a8718d1bbcf3c0382564d",
+    "ReplicatedStorage/InterfazIntento.luau": "d84b0702970dcaa6411b31ec50bf42af9e57d1dda5cd14bbc6ed28129ae8e660"
+  }
+}
